@@ -1,1 +1,1 @@
-### Anomlay detection Project for financial Market
+## Anomaly Detection Project for Financial Market
